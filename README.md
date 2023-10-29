@@ -5,7 +5,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Análise e Desenvolvimento** no <a href="https://ucpel.edu.br/">UCPel</a>.
-- 💼 Programa de Bolasa **Estagiario QA** na <a href="https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass%20uol&gad=1&gclid=Cj0KCQjwoeemBhCfARIsADR2QCvG1SNRwmbxLcAiZX2iGqpwzLjjE2VJp8Xg7FnVxTk6sY2jvZUkozkaAubyEALw_wcB">Compass.UOL</a>
+- 💼 Programa de Bolsas **Estagiario QA** na <a href="https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass%20uol&gad=1&gclid=Cj0KCQjwoeemBhCfARIsADR2QCvG1SNRwmbxLcAiZX2iGqpwzLjjE2VJp8Xg7FnVxTk6sY2jvZUkozkaAubyEALw_wcB">Compass.UOL</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Automação de testes em Ruby**.
 
 <h3>Minhas Skills</h3>
