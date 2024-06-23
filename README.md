@@ -1,11 +1,12 @@
-## Oi, eu sou Jeferson Marchetto, QA tester na empresa Compass.UOL
+## Oi, eu sou Jeferson Marchetto, Suporte T.I na Empresa Twin onsultoria Aduaneira
 
 
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Análise e Desenvolvimento** no <a href="https://ucpel.edu.br/">UCPel</a>.
-- 💼 Programa de Bolsas **Estagiario QA** na <a href="https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass%20uol&gad=1&gclid=Cj0KCQjwoeemBhCfARIsADR2QCvG1SNRwmbxLcAiZX2iGqpwzLjjE2VJp8Xg7FnVxTk6sY2jvZUkozkaAubyEALw_wcB">Compass.UOL</a>
+- 💼 Sou  **Suporte T.I** na <a href="https://twin.com.br/"> TWIN</a>
+- 💼 Fui **Estagiario QA** na <a href="https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass%20uol&gad=1&gclid=Cj0KCQjwoeemBhCfARIsADR2QCvG1SNRwmbxLcAiZX2iGqpwzLjjE2VJp8Xg7FnVxTk6sY2jvZUkozkaAubyEALw_wcB">Compass.UOL</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Automação de testes em Ruby**.
 
 <h3>Minhas Skills</h3>
